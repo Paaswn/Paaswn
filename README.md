@@ -2,8 +2,6 @@
 Hi, I am a computer engineering student at Chulalongkorn University, interested in system programming and high-performance software.
 
 ## What I'm working on
-
-* [falling sand simulation](https://github.com/Paaswn/sandfall-sim) written in Odin. This project is a stripped-down niche "game engine" I made from scratch.
 * [yoel](https://github.com/Paaswn/yoel), a cli and vscode extension for professor nattee's Computer Engineering Grader written in Golang.
 
 ## Tech Stack
